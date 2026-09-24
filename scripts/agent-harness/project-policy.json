@@ -1,0 +1,6 @@
+{
+  "project": "Test Data Lab public pages",
+  "safety_focus": "This is a static information/privacy/EULA site, separate from the qbo application. Preserve truthful public claims and substantive legal terms. Do not add an app stack, credentials or company access; publishing requires explicit authorization.",
+  "runtime_entrypoints": [],
+  "external_operation_routes": []
+}
